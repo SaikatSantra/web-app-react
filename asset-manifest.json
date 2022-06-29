@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/web-app-react/static/css/main.5f8bd5c5.css",
+    "main.js": "/web-app-react/static/js/main.47ddbc01.js",
+    "static/js/787.175d63df.chunk.js": "/web-app-react/static/js/787.175d63df.chunk.js",
+    "static/media/montez-all-400-normal.woff": "/web-app-react/static/media/montez-all-400-normal.79b5dfe53039dd35baa7.woff",
+    "static/media/montez-latin-400-normal.woff2": "/web-app-react/static/media/montez-latin-400-normal.e3ec19d3e32d3976b075.woff2",
+    "index.html": "/web-app-react/index.html",
+    "main.5f8bd5c5.css.map": "/web-app-react/static/css/main.5f8bd5c5.css.map",
+    "main.47ddbc01.js.map": "/web-app-react/static/js/main.47ddbc01.js.map",
+    "787.175d63df.chunk.js.map": "/web-app-react/static/js/787.175d63df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f8bd5c5.css",
+    "static/js/main.47ddbc01.js"
+  ]
+}
